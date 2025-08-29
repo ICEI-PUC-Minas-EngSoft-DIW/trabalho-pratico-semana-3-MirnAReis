@@ -20,4 +20,4 @@ Wireframe
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Um esboço de como quero que seja](atual-homepage.png)
